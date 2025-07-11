@@ -1,0 +1,5 @@
+.env
+V
+model_cache/
+conversation_history.db
+users.db
