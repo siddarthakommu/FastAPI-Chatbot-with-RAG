@@ -1,0 +1,7 @@
+# Account Help Guide
+
+## Resetting Password
+Click "Forgot Password" and follow the link to reset it.
+
+## Deleting Account
+Go to Profile > Privacy > Delete Account.

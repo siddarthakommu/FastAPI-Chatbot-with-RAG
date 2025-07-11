@@ -1,0 +1,7 @@
+# Troubleshooting
+
+## App Not Loading
+Check your internet. Refresh or restart the app.
+
+## Chatbot Not Responding
+Clear browser cache or use incognito mode.

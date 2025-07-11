@@ -1,0 +1,10 @@
+# Order Process Help
+
+## Placing an Order
+You can place an order by selecting the desired item and clicking "Add to Cart". Complete the checkout by providing shipping and payment information.
+
+## Reordering Items
+Go to your order history, select an item, and click "Reorder".
+
+## Cancelling an Order
+Orders can be canceled within 30 minutes of placing them.
